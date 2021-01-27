@@ -1,5 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I'm Shaunda!
-I am a backend developer with a passion for solving problems, REST API development, data engineering and writing simple, readable code. When I'm not writing code, studying at [Turing School of Software and Engineering](turing.io), writing (or reading!) science fiction/fantasy stories :rocket: :unicorn:, or volunteering with local organizations in Denver on a variety of social justice issues :fist:.
+I am a backend developer with a passion for solving problems, REST API development, data engineering and writing simple, readable code. When I'm not writing code, I'm studying at [Turing School of Software and Engineering](turing.io), writing (or reading!) science fiction/fantasy stories :rocket: :unicorn:, or volunteering with local organizations in Denver on a variety of social justice issues :fist:.
 
 #### 🔭 I’m currently looking for new opportunities. [Checkout my resume here.](https://www.visualcv.com/smcunning/)
 
